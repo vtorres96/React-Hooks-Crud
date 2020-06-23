@@ -11,11 +11,7 @@
 
 ## How to install packages (frontend)
 
-### after cloning the repository enter the frontend folder
-
-```sh
-$ cd app
-```
+### after cloning the repository use yarn or npm to run the application
 
 ### yarn
 
